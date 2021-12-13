@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&display=swap');
+
+.slider h1,
+.slider h4 
+.clients {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+}
+
+.slider h1{
+    font-weight: bolder;
+}
+
+.harmonia {
+    font-family: 'Corinthia', cursive;
+}
+
+.brand-logo {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 5);
+    
+}
+
+.navbar-fixed li a{
+    font-weight: bold;
+}
+
+.navbar-fixed li a:hover{
+    background:none;
+    color: yellow;
+}
+
+.navbar-fixed img{
+   height: 50px;
+   padding-top: 15px;
+}
+
+.container h2 {
+    font-weight: bold;
+    
+}
+
+.container h4 {
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+.container h4:hover {
+    color: #f48fb1;
+    
+}
+.container p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.container blockquote{
+    border-left: 5px solid #f48fb1;
+}
+
+.card-reveal p{
+    font-size: 20px;
+}
+.parallax-container {
+    height:250px;
+    padding-top: 30px;
+}
+
+
+
+.parallax-container h2{
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 5);
+}
+.parallax-container p{
+    text-align: center;
+}
+.container h3{
+    font-weight: bold;
+}
+
+.testimonial p{
+    text-align: center;
+    font-style: italic;
+   
+}
+
+.testimonial h5:hover{
+    color:#f48fb1;
+    cursor: pointer;
+}
+
+
+section {
+    padding:20px 0;
+}
+
+.ouradvantage .container h5{
+    font-weight: bold;
+}
+
+
+.ouradvantage .container p{
+    text-align: center;
+    font-size: 20px;
+}
+.ouradvantage .container i:hover{
+    color: #f48fb1;
+    cursor: pointer;
+}
+
+.ouradvantage .container h5:hover{
+    color: #f48fb1;
+    cursor: pointer;
+}
+
+.card-panel h5{
+    font-weight: bold;
+}
+
+
+
+.contact p, li {
+    font-size: 20px;
+    
+}
+footer {
+    padding: 5px 0;
+}
